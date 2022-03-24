@@ -47,6 +47,6 @@ async function mintNFT(tokenURI) {
     });
 }
 
-// https://ipfs.io/ipfs/QmRfo8XWN82iw4XZwGCdTw2ZC4cCcbXTTptag4yfh6QN34
-// https://ipfs.io/ipfs/QmcGjUT4kiVkup5vUtbD1QDWgaaC6wzCV7UMo9FGzKKH5o
+// https://ipfs.io/ipfs/QmacdQJSjYWfWFcwRnwge9MQzethBoHFoZz4zN9vrBjwEm
+// https://ipfs.io/ipfs/QmXKGKh12TWpFFMVhkauzUUgXTnYxQVT4cVMC2sN4Uj1U6
 mintNFT("");

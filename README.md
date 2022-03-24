@@ -4,7 +4,7 @@
 
 ### The project is deploy on the rinkeby testnet
 
-[See on Etherscan - Contract NFT (ERC721)](https://rinkeby.etherscan.io/address/0xcEcCDBE23171d1e9fafAC02E57543D6a9812325c)
+[See on Etherscan - Contract NFT (ERC721)](https://rinkeby.etherscan.io/address/0xcEcCDBE23171d1e9fafAC02E57543D6a9812325c#code)
 
 #### These are the images on ipfs
 
@@ -14,4 +14,4 @@
 
 ### The project is deploy on the rinkeby testnet (ERC20)
 
-[Click to see on Etherscan (ERC20 Contract)](https://rinkeby.etherscan.io/address/)
+[Click to see on Etherscan (ERC20 Contract)](https://rinkeby.etherscan.io/address/0xe6DD12178B010FC5b7ccDC5218b4d6E2ACa6ae86#code)

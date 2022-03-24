@@ -4,7 +4,12 @@ async function main() {
   // Start deployment, returning a promise that resolves to a contract object
   const landNFT = await LandNFT.deploy();
   await landNFT.deployed();
-  console.log("Contract deployed to address:", landNFT.address);
+  console.log("Contract(ERC721) deployed to address:", landNFT.address);
+
+  // Start deployment the ERC20
+  const PingToken = await ethers.getContractFactory("PingToken");
+  const pingToken = await PingToken.deploy();
+  console.log("Contract(ERC20) deployed to address:", pingToken.address);
 }
 
 main()
